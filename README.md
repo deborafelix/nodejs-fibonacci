@@ -1,5 +1,7 @@
 # Fibonacci usando NodeJS
 
+Exercício Codenation - Módulo 3
+
 Faça um método `fibonacci` que retorne um `Array` com os primeiro números de série de *Fibonacci* até passar de *350*.
 
 > A série de Fibonacci é a seguinte: 0, 1, 1, 2, 3, 5, 8, 13, etc...
